@@ -6,7 +6,7 @@ Submitted by: **Aliya Valieva**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/languid-outstanding-bergamot?path=README.md%3A78%3A34
 
 ## Required Functionality
 
@@ -34,12 +34,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Reaarnge the buttons after the player wins 3 times in a row
+- [ ] Reaarnge the buttons in a random order after the player wins 3 times in a row
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://i.imgur.com/HkLhXFn.gif)
+![](https://i.imgur.com/vMXHpB6.gif)
 
 
 ## Reflection Questions
@@ -48,16 +49,14 @@ Here's a walkthrough of implemented user stories:
 - https://www.w3schools.com/cssref/css_colors_legal.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+One issue I had was my game not working and having a numch of errors in the console after I tried to start it. I was going through all of my code for solid 30 minutes with instructions line by line putting a bunch of print statements. Eventually, I realized missing playClueSequence() function in my startGame(). 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I am curious as of how proficient in CSS/HTML should a web developer be to be considered a successful developer. Surely there are bondaries towards how succesful ypur product is. However, how would one determine whether his product is good enough? In the meantime, as specifically to this project would it be also possible to extend the folloiwng game even more and how much more shoudl it be? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-If I had more time I would have definitely finished adding aditional features like pictures and sounds. 
-Every time the button is clicked I would have a picture emerging along with a particular sound.
-In the meantime, I would add a timer on the upper right corner to let the player see how much time has passed. I wish I implemented a
-visual clue in a form of the number of won/lost tries. I also would reaarange the cards after the player went through certain number of wins. 
+I would have definitely finished adding aditional features like pictures and sounds. Every time the button is clicked I would have a picture emerging along with a particular sound associated with it.
+In the meantime, I would add a timer on the upper right corner to let the player see how much time has passed since they started. I wish I implemented a visual clue in a form of the number of won/lost tries. I also would reaarange the buttons in a random order after the player went through certain number of wins. 
 
 
 
